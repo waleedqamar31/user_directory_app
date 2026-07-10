@@ -25,6 +25,9 @@ The primary objective of the project is to demonstrate how a Flutter application
 Rather than focusing only on successfully fetching API data, the application also handles the different states that occur during real-world network communication.
 
 ---
+Download App [https://drive.google.com/file/d/1XI3-qLZT_EUjDrSajg1-R19c4v0CyCWs/view?usp=sharing]
+
+---
 ## App Preview
 
 <table>
