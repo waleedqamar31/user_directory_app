@@ -26,6 +26,30 @@ Rather than focusing only on successfully fetching API data, the application als
 
 ---
 
+---
+## App Preview
+
+<table>
+  <tr>
+    <th>Home</th>
+    <th>Search</th>
+    <th>Profile</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="ss/home.png" width="240" alt="Home Screen" />
+    </td>
+    <td>
+      <img src="ss/search.png" width="240" alt="Search Screen" />
+    </td>
+    <td>
+      <img src="ss/profile.png" width="240" alt="Profile Screen" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 ### User Directory
