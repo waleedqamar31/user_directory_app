@@ -25,8 +25,6 @@ The primary objective of the project is to demonstrate how a Flutter application
 Rather than focusing only on successfully fetching API data, the application also handles the different states that occur during real-world network communication.
 
 ---
-
----
 ## App Preview
 
 <table>
@@ -47,6 +45,16 @@ Rather than focusing only on successfully fetching API data, the application als
     </td>
   </tr>
 </table>
+
+---
+
+## Demo Video
+
+<p align="center">
+  <video src="SS/demo.mp4" width="320" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
